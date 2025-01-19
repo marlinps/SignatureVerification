@@ -1,0 +1,2 @@
+password : I hereby accept the SigComp 2009 disclaimer.
+sumber : The ICDAR 2009 Signature Verification Competition
